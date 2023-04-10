@@ -10,7 +10,7 @@ export default function Contact() {
                     I'm currently looking for opportunities in the Greater Toronto Area, 
                     so please reach out if you are looking for an enthusiastic and creative developer!
                 </p>
-                <button onClick={() => window.location = 'mailto:yourmail@domain.com'} class="bg-transparent hover:bg-blue-500 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded">
+                <button onClick={() => window.location = 'mailto:jaiveer_@hotmail.com'} class="bg-transparent hover:bg-blue-500 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded">
                     Get In Touch
                 </button>
             </div>
