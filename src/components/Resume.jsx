@@ -1,0 +1,13 @@
+import React from "react";
+
+export default function Resume() {
+    return(
+        <div className="bg-yellow-300 text-center min-h-screen flex -my-16">
+            <div className="m-auto">
+                <h1>Resume</h1>
+                <p>this is a test</p>
+            </div>
+        </div>
+    )
+
+}
