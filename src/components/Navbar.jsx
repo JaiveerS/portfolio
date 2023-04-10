@@ -4,7 +4,7 @@ import {Link} from 'react-router-dom';
 export default function Navbar() {
 
     return(
-        <nav className=" bg-blue-400 sticky top-0 z-50 flex flex-wrap items-center px-2 py-4">
+        <nav className=" bg-blue-300 sticky top-0 z-50 flex flex-wrap items-center px-2 py-4">
             <div className="container px-4 mx-auto flex flex-wrap items-center justify-center">
                 {/* <h1 className="px-2 text-5xl">
                     <Link to={""}>jaiveer</Link>
