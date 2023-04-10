@@ -3,7 +3,7 @@ import React from "react";
 export default function Contact() {
 
     return(
-        <div className="bg-blue-300 text-center h-screen flex -my-16">
+        <div className="bg-gradient-to-r from-blue-300 to-blue-50 text-center h-screen flex -my-16">
             <div className="m-auto">
                 <h1 className="text-6xl font-medium animate-fade-in-down-1">Get In Touch</h1>
                 <p className="text-xl py-6 px-10 animate-fade-in-down-2 max-w-3xl">

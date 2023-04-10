@@ -3,7 +3,7 @@ import React from "react";
 export default function Home() {
     return(
         <div>
-            <div className="bg-blue-300 text-center min-h-screen flex -my-16">
+            <div className="bg-gradient-to-r from-blue-300 to-blue-50 text-center min-h-screen flex -my-16">
                 <div className="m-auto">
                     <h3 className="text-4xl animate-fade-in-down-1">Hi there! I'm</h3>
                     <h1 className="text-8xl py-1 animate-fade-in-down-2">Jaiveer Singh</h1>
