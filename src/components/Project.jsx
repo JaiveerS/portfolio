@@ -6,7 +6,7 @@ export default function Project(props) {
             <a className="flex h-48 w-56 px-4 items-center justify-center hover:font-bold" href={props.link}>{props.title}</a>
             <div className="">
                 <a className="border-black border-2 bg-green-300 px-2 py-2 cursor-pointer hover:font-bold" href={props.link}>Demo</a>
-                <a className="border-black border-2 bg-red-300 px-2 py-2 cursor-pointer hover:font-bold" href={props.link}>Source Code</a>
+                <a className="border-black border-2 bg-red-300 px-2 py-2 cursor-pointer hover:font-bold" href={props.code}>Source Code</a>
             </div>
         </div>
     )
