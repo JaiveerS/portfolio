@@ -10,7 +10,8 @@ export default function ResumeContent(){
             <h2 class="text-2xl font-bold mt-4">Education</h2>
             
             <ul className="pl-6">
-            <li>Bachelor of Science in Computer Science <a href="https://lassonde.yorku.ca/">Lassonde School Of Engineering</a> - York University, Toronto ON</li>
+            <li>Bachelor of Science in Computer Science</li>
+            <a href="https://lassonde.yorku.ca/"><li>Lassonde School Of Engineering - York University, Toronto ON</li></a>
             </ul>
             
             <h2 class="text-2xl font-bold mt-4">Projects</h2>
