@@ -4,7 +4,7 @@ import Project from "./Project";
 export default function Projects() {
     return(
         <div className="bg-gradient-to-r from-blue-300 to-blue-50 text-center min-h-screen flex ">
-            <div className="m-auto">
+            <div className="mx-auto mt-10">
                 <h1 className="text-6xl font-medium">Projects</h1>
                 <div className="flex space-between flex-wrap justify-center p-10 max-w-screen-2xl">
                     <Project title="E-Commerce Website" link="http://140.238.147.51/" code="https://github.com/JaiveerS/shop-backend-v1"/>
